@@ -133,7 +133,7 @@ output application/json
 output application/json
 ---
 {
-  id: "123",
+  id: "1234",
   result: "pass"
 }]]></ee:set-payload>
             </ee:message>
