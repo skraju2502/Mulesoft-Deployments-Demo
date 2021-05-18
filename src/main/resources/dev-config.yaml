@@ -1,0 +1,6 @@
+http:
+  port: "8081"
+  ip: "0.0.0.0"
+
+autodis:
+  apiid: "16880175"
