@@ -134,7 +134,7 @@ output application/json
 ---
 {
   id: "1234",
-  result: "pass"
+  result: "pass success"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
